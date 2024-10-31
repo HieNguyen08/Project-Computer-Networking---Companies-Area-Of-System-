@@ -134,4 +134,3 @@ This network design incorporates advanced technologies to maximize security, per
 
 ---
 
-This README provides an exhaustive overview of the network design, configuration requirements, and setup instructions for a large company. It documents each component in detail, facilitating easy setup and ensuring secure, reliable network operation.
