@@ -8,6 +8,8 @@ The objective of this lab is to build a robust network model for a large company
 - Data exchange across locations with minimized latency.
 - Optimized connectivity across both LAN and WAN networks.
 - High security, availability, fault tolerance, and scalability.
+## Version
+There are 2 files: Final-Copy for DSL Configuration, Final for DCE version. These two are almost the same.
 
 ## Case Study: Company Background
 The **Computer & Construction Company (CCC)** was hired to establish a network for **BB Bank**, which includes:
