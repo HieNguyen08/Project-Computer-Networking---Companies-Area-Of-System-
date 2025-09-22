@@ -1,5 +1,7 @@
 # Large Critical Company Network Design and Simulation
 
+## This is the version for Network Computer assignment of HCMUTers, please give me 1 star if it is useful.
+
 ## Overview
 This repository contains a Cisco Packet Tracer lab that simulates a detailed network design for a large, critical company network. The design facilitates seamless interaction between departments across various buildings and locations, enabling secure and efficient data exchange. Cisco Packet Tracer (CPT) is used to create, test, and analyze this network, utilizing a range of network technologies to meet the company's connectivity, security, and operational requirements.
 
